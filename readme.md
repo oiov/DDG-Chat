@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://socialify.git.ci/leafmoes/DDG-Chat/image?font=Inter&forks=1&issues=1&logo=https://duckduckgo.com/assets/logo_header.v109.svg&name=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto" alt="DDG-Chat"/>
 
-一键免费部署到各种平台你的 ChatGPT API 后端
+一键免费部署到各种平台你的 ChatGPT API 后端 
 
 支持 Vercel, Cloudflare Workers, Docker, Render 等
 
